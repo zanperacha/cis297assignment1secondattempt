@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>cis297w2022Assign1</name>
+    </assembly>
+    <members>
+        <member name="T:cis297w2022Assign1.Program">
+            <summary>
+            This program implements some arithmetic functions as a calculator
+            </summary>
+            <Student>John Doe</Student>
+            <Class>CIS297</Class>
+            <Semester>Winter 2022</Semester>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:cis297w2022Assign1.Program.CaptureInput" -->
+        <member name="M:cis297w2022Assign1.Program.ReverseString">
+            <summary>
+            2.	Reverse a string
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.RemoveWhitespace">
+            <summary>
+            1.	Return a string without the Whitespaces
+            </summary>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.DisplayResult(System.String)">
+            <summary>
+            Displays the result as a modified string
+            </summary>
+            <param name="message">The <see cref="T:System.String"/> message to display.</param>
+        </member>
+        <member name="M:cis297w2022Assign1.Program.SquareRoot">
+            <summary>
+            9. Sqrt-Square Root. This function returns the square root of the given number.
+            </summary>
+        </member>
+    </members>
+</doc>
